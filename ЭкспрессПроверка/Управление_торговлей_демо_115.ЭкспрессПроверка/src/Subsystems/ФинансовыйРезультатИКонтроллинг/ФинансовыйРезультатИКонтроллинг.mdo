@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bc3d382b-3e9d-4651-86b3-8875ded65042" extendedConfigurationObject="4c4ef27b-c41c-451c-a4b6-647af69529ed">
+  <name>ФинансовыйРезультатИКонтроллинг</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:SubsystemExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <content>Catalog.ЭП_ОписанияПроверок</content>
+  <subsystems>ЗакрытиеМесяца</subsystems>
+</mdclass:Subsystem>

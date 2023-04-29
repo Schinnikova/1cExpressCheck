@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cb1ff042-346a-4526-a631-132927a6b0fd">
+  <producedTypes>
+    <objectType typeId="15ca459f-95c7-4ea6-a318-491c7fd1a6fb" valueTypeId="b4e80ed2-5214-4d62-9e52-20e248f4ffb2"/>
+    <managerType typeId="d189813b-fe91-45bf-a060-8908d18f498a" valueTypeId="43cf40ad-7028-41c5-aaec-9a564431cd9a"/>
+  </producedTypes>
+  <name>ЭП_ПроизвольнаяРасшифровка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Э п произвольная расшифровка</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ЭП_ПроизвольнаяРасшифровка.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="1d8c2b00-8cc3-4798-be46-7dc7dc97858b">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>

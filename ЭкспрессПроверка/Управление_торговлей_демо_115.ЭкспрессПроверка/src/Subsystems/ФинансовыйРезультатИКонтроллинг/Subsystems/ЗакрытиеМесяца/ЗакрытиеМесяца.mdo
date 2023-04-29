@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="81c0b882-2fb0-43a6-a602-6f75f1c735eb" extendedConfigurationObject="d376bb0f-b4f0-4753-8711-22b3bb21b16f">
+  <name>ЗакрытиеМесяца</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:SubsystemExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <content>Report.ЭП_ЭкспрессПроверкаВеденияУчета</content>
+  <content>Catalog.ЭП_ОписанияПроверок</content>
+  <parentSubsystem>Subsystem.ФинансовыйРезультатИКонтроллинг</parentSubsystem>
+</mdclass:Subsystem>
